@@ -1,0 +1,8 @@
+---
+title: "This is first markdown file"
+author: "YOU!"
+date: "2024-10-06"
+output: word_document
+---
+
+## This is a markdown file
